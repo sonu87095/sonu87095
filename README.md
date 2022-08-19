@@ -45,7 +45,7 @@
  
  - :eyes: Looking forward to be a successful Data Analyst.
  
- - <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> All of my projects are available at <a href="https://github.com/sonu87095?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Yogesh-Nayak" height="30" width="40" style="max-width: 100%;"></a></p>
+ - <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> All of my projects are available at <a href="https://github.com/sonu87095?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sonu87095" height="30" width="40" style="max-width: 100%;"></a></p>
  
  - :thinking: Curious about the way things work.
  
@@ -80,7 +80,7 @@
  <p align="center" dir="auto">
   
   <a href="http://www.github.com/sonu87095"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu87095&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-   <a href="http://www.github.com/sonu87095"><img src="https://github-readme-stats.vercel.app/api?username=sonu87095&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Yogesh-Nayak's GitHub stats" /></a>
+   <a href="http://www.github.com/sonu87095"><img src="https://github-readme-stats.vercel.app/api?username=sonu87095&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sonu87095's GitHub stats" /></a>
    
 <a href="http://www.github.com/sonu87095"><img src="https://activity-graph.herokuapp.com/graph?username=sonu87095&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  </p>
