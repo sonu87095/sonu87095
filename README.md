@@ -9,7 +9,7 @@
 </h1>
 
 <h3  align = "center">
- <b>I'm an aspiring Data Analyst from India.</b>
+ <b>Working professional having 2 years of experince in database and development looking forward for the new opportunity as python developer or data enginnnering role.</b>
 </h3>
  
  <h2>
